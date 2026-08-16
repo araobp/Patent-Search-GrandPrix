@@ -1,6 +1,8 @@
 # Gemini向けプロンプト集
 
-バイブルは[許情報調査と検索テクニック入門　第３版](https://online-shop.jiii.or.jp/c-item-detail?ic=844)（通称、青本）だが、現職が生成AI推進の役目で仕事してる立場、エクセルではなく生成AIを活用したい。
+[許情報調査と検索テクニック入門　第３版](https://online-shop.jiii.or.jp/c-item-detail?ic=844)（通称、青本）が私のバイブル。
+
+私なりにGemini向けプロンプトをつくってみた。
 
 ## ステップ１：構成要素キーワード抽出
 
