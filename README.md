@@ -1,4 +1,4 @@
-# Gemini向けプロンプト集
+# j-platpat & Gemini向け プロンプト集
 
 [許情報調査と検索テクニック入門　第３版](https://online-shop.jiii.or.jp/c-item-detail?ic=844)（通称、青本）が私のバイブル。
 
